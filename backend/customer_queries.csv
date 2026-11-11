@@ -1,0 +1,27 @@
+
+query,category
+"I was charged twice for my subscription",Billing
+"I want a refund for my payment",Billing
+"My invoice shows an incorrect amount",Billing
+"My payment failed but money was deducted",Billing
+"How can I update my billing information",Billing
+"The application keeps crashing",Technical Support
+"I cannot open the website",Technical Support
+"The app is showing an unexpected error",Technical Support
+"My dashboard is not loading",Technical Support
+"The software is running very slowly",Technical Support
+"I forgot my account password",Account Management
+"I cannot log into my account",Account Management
+"How do I change my registered email",Account Management
+"Please help me reset my password",Account Management
+"I want to update my profile details",Account Management
+"Where is my order",Order Management
+"My order has not been delivered",Order Management
+"I received the wrong product",Order Management
+"How can I cancel my order",Order Management
+"My delivery is delayed",Order Management
+"What services does your company offer",General Inquiry
+"What are your business hours",General Inquiry
+"Where can I find your contact information",General Inquiry
+"Can you explain your service plans",General Inquiry
+"How can I contact customer support",General Inquiry

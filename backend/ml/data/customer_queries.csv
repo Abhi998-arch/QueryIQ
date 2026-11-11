@@ -1,0 +1,102 @@
+﻿
+query,category
+"I was charged twice for my subscription",Billing
+"I want a refund for my payment",Billing
+"My invoice shows an incorrect amount",Billing
+"My payment failed but money was deducted",Billing
+"How can I update my billing information",Billing
+"I need a copy of my latest invoice",Billing
+"Why was I charged an extra fee",Billing
+"My subscription renewal payment failed",Billing
+"How do I cancel automatic payments",Billing
+"I want to change my payment method",Billing
+"My card was charged after cancellation",Billing
+"Can I get a refund for last month's payment",Billing
+"The amount deducted from my account is incorrect",Billing
+"I cannot download my payment receipt",Billing
+"Where can I check my billing history",Billing
+"My transaction is showing as pending",Billing
+"I was charged for a service I did not use",Billing
+"How do I update my credit card details",Billing
+"My refund has not arrived yet",Billing
+"I need help with my subscription invoice",Billing
+"The application crashes when I open it",Technical Support
+"My website is not loading properly",Technical Support
+"I keep getting an unexpected error",Technical Support
+"The dashboard is running very slowly",Technical Support
+"My application freezes during login",Technical Support
+"The page shows a blank screen",Technical Support
+"I cannot upload files to the application",Technical Support
+"The software stops responding frequently",Technical Support
+"I am getting a server error",Technical Support
+"The mobile app closes automatically",Technical Support
+"My screen is not displaying correctly",Technical Support
+"The application is not connecting to the server",Technical Support
+"I cannot download reports from the system",Technical Support
+"The website is showing an error message",Technical Support
+"My application stopped working after the update",Technical Support
+"The search feature is not working",Technical Support
+"I am unable to access a particular page",Technical Support
+"The system takes too long to respond",Technical Support
+"Images are not loading on the website",Technical Support
+"I am experiencing technical issues with the app",Technical Support
+"I forgot my account password",Account Management
+"I cannot log into my account",Account Management
+"How do I change my registered email address",Account Management
+"Please help me reset my password",Account Management
+"I want to update my profile information",Account Management
+"How can I change my username",Account Management
+"My account has been locked",Account Management
+"I want to delete my account permanently",Account Management
+"How do I create a new account",Account Management
+"I need to update my phone number",Account Management
+"I cannot verify my email address",Account Management
+"How can I change my account details",Account Management
+"I received an incorrect verification code",Account Management
+"Please help me recover my account",Account Management
+"I want to deactivate my profile",Account Management
+"How do I enable two factor authentication",Account Management
+"My registered mobile number is incorrect",Account Management
+"I cannot access my account settings",Account Management
+"How can I change my account password",Account Management
+"I want to update my personal details",Account Management
+"Where is my order",Order Management
+"My order has not been delivered",Order Management
+"I received the wrong product",Order Management
+"How can I cancel my order",Order Management
+"My delivery is delayed",Order Management
+"I want to track my current order",Order Management
+"My order status has not changed",Order Management
+"Can I change my delivery address",Order Management
+"Part of my order is missing",Order Management
+"I received a damaged item",Order Management
+"When will my package arrive",Order Management
+"I want to modify my existing order",Order Management
+"My order was marked delivered but I did not receive it",Order Management
+"How do I return an item from my order",Order Management
+"I need to check my order history",Order Management
+"My package is stuck in transit",Order Management
+"I received fewer items than I ordered",Order Management
+"Can I reschedule my delivery",Order Management
+"My order was cancelled unexpectedly",Order Management
+"I need help with a delivery issue",Order Management
+"What services does your company offer",General Inquiry
+"What are your business hours",General Inquiry
+"Where can I find your contact information",General Inquiry
+"Can you explain your service plans",General Inquiry
+"How can I contact customer support",General Inquiry
+"Where is your company located",General Inquiry
+"Do you offer services to businesses",General Inquiry
+"What is your company's mission",General Inquiry
+"How can I learn more about your products",General Inquiry
+"Do you have a frequently asked questions page",General Inquiry
+"Where can I find information about your company",General Inquiry
+"What types of customers do you serve",General Inquiry
+"Do you provide customer support on weekends",General Inquiry
+"How can I request more information about your services",General Inquiry
+"Is there a guide for new customers",General Inquiry
+"What are the benefits of your service",General Inquiry
+"Do you have any service packages",General Inquiry
+"Where can I find your latest announcements",General Inquiry
+"How do I get in touch with your sales team",General Inquiry
+"Can you tell me about your company",General Inquiry
